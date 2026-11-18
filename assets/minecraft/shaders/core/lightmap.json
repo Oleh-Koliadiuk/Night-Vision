@@ -1,0 +1,6 @@
+{
+  "vertex": "minecraft:core/blit_screen",
+  "fragment": "minecraft:core/lightmap",
+  "samplers": [],
+  "uniforms": []
+}

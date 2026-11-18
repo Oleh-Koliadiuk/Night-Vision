@@ -1,7 +1,9 @@
 {
   "pack": {
-    "min_format": [69, 0],
-    "max_format": [75, 0],
-    "description": "Night Vision (Java 1.21.9–1.21.11)"
+    "pack_format": 46,
+    "supported_formats": [46, 64],
+    "min_format": [46, 0],
+    "max_format": [84, 0],
+    "description": "Night Vision (Java 1.21.4–26.1)"
   }
 }
